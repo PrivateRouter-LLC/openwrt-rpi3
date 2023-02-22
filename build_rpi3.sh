@@ -29,7 +29,7 @@ make image  PROFILE="rpi-3" \
                      base-files block-mount fdisk luci-app-minidlna minidlna samba4-server \
                      samba4-libs luci-app-samba4 wireguard-tools luci-app-wireguard \
                      openvpn-openssl luci-app-openvpn watchcat openssh-sftp-client \
-                     luci-base luci-ssl luci-mod-admin-full luci-theme-bootstrap bcm27xx-eeprom \
+                     luci-base luci-ssl luci-mod-admin-full luci-theme-bootstrap \
                      kmod-usb-storage kmod-usb-ohci kmod-usb-uhci e2fsprogs fdisk resize2fs \
                      htop debootstrap luci-compat luci-lib-ipkg dnsmasq luci-app-ttyd \
                      irqbalance ethtool netperf speedtest-netperf iperf3 \
